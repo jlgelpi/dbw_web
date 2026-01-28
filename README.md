@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1rgbnUopqieKkB-oBtdForP30zgGOARk8fM2ydhZP
 
 Open your terminal, go to a location in you computer and type the next command:
 
-`git clone https://github.com/gbayarri/dbw.git`
+`git clone https://github.com/jlgelpi/dbw_web`
 
 The **freelancer** folder contains the *Freelancer* bootstrap theme:
 
