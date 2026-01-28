@@ -4,7 +4,7 @@ Here you have a few files that can be useful to make your first steps in Front-e
 
 For accessing the presentation, please click the following link:
 
-https://docs.google.com/presentation/d/1rgbnUopqieKkB-oBtdForP30zgGOARk8fM2ydhZPluQ/edit?usp=sharing
+https://formacio.bq.ub.edu/PPT/frontend2026.pdf
 
 ## Usage
 
